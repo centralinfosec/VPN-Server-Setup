@@ -6,13 +6,13 @@ VPN Server Setup is a penetration testing and red teaming tool that automates th
 
 Clone the GitHub repository and run the script
 ```
-git clone https://github.com/jamesm0rr1s/VPN-Server-Setup /opt/jamesm0rr1s/VPN-Server-Setup
+git clone https://github.com/centralinfosec/VPN-Server-Setup /opt/Central-InfoSec/VPN-Server-Setup
 ```
 
 ## Usage
 
 Run the following commands to install:
 ```
-chmod +x /opt/jamesm0rr1s/VPN-Server-Setup/createVpnServer.sh
-/opt/jamesm0rr1s/VPN-Server-Setup/createVpnServer.sh
+chmod +x /opt/Central-InfoSec/VPN-Server-Setup/createVpnServer.sh
+/opt/Central-InfoSec/VPN-Server-Setup/createVpnServer.sh
 ```
